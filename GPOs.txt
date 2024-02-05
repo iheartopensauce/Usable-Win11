@@ -1,0 +1,4 @@
+- Computer Configuration > Administrative Templates > Windows Components > Text Input: Improve inking and typing recognition- Disabled
+- User Configuration > Administrative Templates > Control Panel > Regional and Language Options > Handwriting personalization: Turn off automatic learning- Enabled
+- Computer configuration > Administrative Templates > Windows Components > Windows Update: Enable Optional Updates
+- Computer Configuration\Administrative Templates\Windows Components\Windows Update\End User Expirience: Configure Automatic updates, enable, 4, pick a time, enable updates for other MS products
